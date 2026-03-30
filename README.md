@@ -1,2 +1,2 @@
 # pankaj-project
-My project for learning purpose
+My project for learning and fun purpose 
